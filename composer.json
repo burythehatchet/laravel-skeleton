@@ -1,0 +1,36 @@
+{
+    "name": "werxe/:package",
+    "description": "",
+    "keywords": [
+        "php", "werxe"
+    ],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Werxe",
+            "email": "hello@werxe.com",
+            "homepage": "https://werxe.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0",
+        "mockery/mockery": "^0.9",
+    },
+    "autoload": {
+        "psr-4": { "Werxe\\:package\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Werxe\\:package\\Tests\\": "tests/" }
+    },
+    "extra": {
+        "component": "package",
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "minimum-stability": "stable"
+}
