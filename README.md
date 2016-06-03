@@ -14,10 +14,6 @@ This package requires PHP 7.0+ and follows the FIG standards PSR-1, PSR-2 and PS
 
 Reader-friendly documentation can be found [here][link-documentation].
 
-## Contributing
-
-Contributions are welcome and will be fully credited. Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
 ## Contributing & Protocols
 
 - [Versioning](CONTRIBUTING.md#versioning)
