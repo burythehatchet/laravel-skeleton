@@ -14,6 +14,10 @@ This package requires PHP 7.0+ and follows the FIG standards PSR-1, PSR-2 and PS
 
 Reader-friendly documentation can be found [here][link-documentation].
 
+## Changelog
+
+Please refer to the [CHANGELOG](CHANGELOG.md) for a full history of the project.
+
 ## Contributing & Protocols
 
 - [Versioning](CONTRIBUTING.md#versioning)
