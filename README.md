@@ -1,4 +1,4 @@
-![package][image-url]
+## :Package
 
 [![Build Status](icon-travis)][link-travis]
 [![Software License](icon-license)][link-license]
@@ -32,8 +32,6 @@ If you discover any security related issues, please email hello@werxe.com instea
 ## License
 
 `werxe/:package` is licenced under the MIT License (MIT). Please see the [license file](LICENSE.md) for more information.
-
-[image-url]: https://cloud.githubusercontent.com/assets/2285372/15791983/69de45fc-29d2-11e6-967b-0ab8c53b53ed.png
 
 [link-composer]: http://getcomposer.org
 [link-travis]: https://travis-ci.org/werxe/:package
