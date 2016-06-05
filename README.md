@@ -34,7 +34,7 @@ If you discover any security related issues, please email hello@werxe.com instea
 [link-composer]: http://getcomposer.org
 [link-travis]: https://travis-ci.org/werxe/:package
 [link-license]: https://opensource.org/licenses/BSD-3-Clause
-[link-packagist]: https://packagist.org/:packages/werxe/:package
+[link-packagist]: https://packagist.org/packages/werxe/:package
 
 [icon-travis]: https://poser.pugx.org/werxe/:package/version?format=flat-square
 [icon-license]: https://poser.pugx.org/werxe/:package/license?format=flat-square
