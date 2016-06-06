@@ -14,6 +14,8 @@ This package requires PHP 7.0+ and follows the FIG standards PSR-1, PSR-2 and PS
 
 Reader-friendly documentation can be found [here][link-documentation].
 
+Using the package, but you're stuck? Found a bug? Have a question or suggestion for improving this package? Feel free to create an issue on GitHub, we'll try to address it as soon as possible.
+
 ## Changelog
 
 Please refer to the [CHANGELOG](CHANGELOG.md) for a full history of the project.
@@ -37,6 +39,7 @@ If you discover any security related issues, please email hello@werxe.com instea
 [link-travis]: https://travis-ci.org/werxe/:package
 [link-license]: https://opensource.org/licenses/BSD-3-Clause
 [link-packagist]: https://packagist.org/packages/werxe/:package
+[link-documentation]: https://docs.werxe.com/:package/1.x
 
 [icon-travis]: https://poser.pugx.org/werxe/:package/version?format=flat-square
 [icon-license]: https://poser.pugx.org/werxe/:package/license?format=flat-square
