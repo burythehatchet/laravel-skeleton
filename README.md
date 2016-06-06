@@ -1,9 +1,9 @@
 ## Skeleton
 
-[![Build Status](icon-travis)][link-travis]
-[![Software License](icon-license)][link-license]
-[![Latest Stable Version][icon-version-stable]][link-packagist]
-[![Latest Unstable Version](icon-version-unstable)][link-packagist]
+[![Build Status][icon-travis]][link-travis]
+[![Coverage Status][icon-scrutinizer]][link-scrutinizer]
+[![Software License][icon-license]][link-license]
+[![Latest Version on Packagist][icon-version]][link-packagist]
 [![Total Downloads][icon-downloads]][link-packagist]
 
 The package description goes here.
@@ -36,16 +36,17 @@ If you discover any security related issues, please email hello@werxe.com instea
 `werxe/skeleton` is licenced under the MIT License (MIT). Please see the [license file](LICENSE.md) for more information.
 
 [link-composer]: http://getcomposer.org
-[link-travis]: https://travis-ci.org/werxe/skeleton
-[link-license]: https://opensource.org/licenses/BSD-3-Clause
-[link-packagist]: https://packagist.org/packages/werxe/skeleton
 [link-documentation]: https://docs.werxe.com/skeleton/1.x
 [link-psr-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
 [link-psr-2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 [link-psr-4]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md
+[link-travis]: https://travis-ci.org/werxe/skeleton
+[link-scrutinizer]: https://scrutinizer-ci.com/g/werxe/skeleton/code-structure
+[link-license]: https://opensource.org/licenses/MIT
+[link-packagist]: https://packagist.org/packages/werxe/skeleton
 
-[icon-travis]: https://poser.pugx.org/werxe/skeleton/version?format=flat-square
-[icon-license]: https://poser.pugx.org/werxe/skeleton/license?format=flat-square
-[icon-version-stable]: https://poser.pugx.org/werxe/skeleton/v/stable?format=flat-square
-[icon-version-unstable]: https://poser.pugx.org/werxe/skeleton/v/unstable?format=flat-square
-[icon-downloads]: https://poser.pugx.org/werxe/skeleton/downloads?format=flat-square
+[icon-travis]: https://img.shields.io/travis/werxe/skeleton/master.svg?style=flat-square
+[icon-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/werxe/skeleton.svg?style=flat-square
+[icon-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[icon-version]: https://img.shields.io/packagist/v/werxe/skeleton.svg?style=flat-square
+[icon-downloads]: https://img.shields.io/packagist/dt/werxe/skeleton.svg?style=flat-square
