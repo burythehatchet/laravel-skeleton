@@ -12,7 +12,7 @@
          verbose="true"
 >
     <testsuites>
-        <testsuite name=":package_name Test Suite">
+        <testsuite name=":Package Test Suite">
             <directory suffix="Test.php">./tests/</directory>
         </testsuite>
     </testsuites>

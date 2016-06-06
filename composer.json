@@ -21,10 +21,10 @@
         "mockery/mockery": "^0.9",
     },
     "autoload": {
-        "psr-4": { "Werxe\\:package\\": "src/" }
+        "psr-4": { "Werxe\\:Package\\": "src/" }
     },
     "autoload-dev": {
-        "psr-4": { "Werxe\\:package\\Tests\\": "tests/" }
+        "psr-4": { "Werxe\\:Package\\Tests\\": "tests/" }
     },
     "extra": {
         "component": "package",

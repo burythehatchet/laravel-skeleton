@@ -8,7 +8,7 @@
 
 The package description goes here.
 
-This package requires PHP 7.0+ and follows the FIG standards PSR-1, PSR-2 and PSR-4 to ensure a high level of interoperability between shared PHP.
+This package requires PHP 7.0+ and follows the FIG standards [PSR-1][link-psr-1], [PSR-2][link-psr-2] and [PSR-4][link-psr-4] to ensure a high level of interoperability between shared PHP.
 
 ## Documentation
 
@@ -40,6 +40,9 @@ If you discover any security related issues, please email hello@werxe.com instea
 [link-license]: https://opensource.org/licenses/BSD-3-Clause
 [link-packagist]: https://packagist.org/packages/werxe/:package
 [link-documentation]: https://docs.werxe.com/:package/1.x
+[link-psr-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
+[link-psr-2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
+[link-psr-4]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md
 
 [icon-travis]: https://poser.pugx.org/werxe/:package/version?format=flat-square
 [icon-license]: https://poser.pugx.org/werxe/:package/license?format=flat-square
