@@ -1,4 +1,4 @@
-## :Package
+## Skeleton
 
 [![Build Status](icon-travis)][link-travis]
 [![Software License](icon-license)][link-license]
@@ -33,19 +33,19 @@ If you discover any security related issues, please email hello@werxe.com instea
 
 ## License
 
-`werxe/:package` is licenced under the MIT License (MIT). Please see the [license file](LICENSE.md) for more information.
+`werxe/skeleton` is licenced under the MIT License (MIT). Please see the [license file](LICENSE.md) for more information.
 
 [link-composer]: http://getcomposer.org
-[link-travis]: https://travis-ci.org/werxe/:package
+[link-travis]: https://travis-ci.org/werxe/skeleton
 [link-license]: https://opensource.org/licenses/BSD-3-Clause
-[link-packagist]: https://packagist.org/packages/werxe/:package
-[link-documentation]: https://docs.werxe.com/:package/1.x
+[link-packagist]: https://packagist.org/packages/werxe/skeleton
+[link-documentation]: https://docs.werxe.com/skeleton/1.x
 [link-psr-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
 [link-psr-2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 [link-psr-4]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md
 
-[icon-travis]: https://poser.pugx.org/werxe/:package/version?format=flat-square
-[icon-license]: https://poser.pugx.org/werxe/:package/license?format=flat-square
-[icon-version-stable]: https://poser.pugx.org/werxe/:package/v/stable?format=flat-square
-[icon-version-unstable]: https://poser.pugx.org/werxe/:package/v/unstable?format=flat-square
-[icon-downloads]: https://poser.pugx.org/werxe/:package/downloads?format=flat-square
+[icon-travis]: https://poser.pugx.org/werxe/skeleton/version?format=flat-square
+[icon-license]: https://poser.pugx.org/werxe/skeleton/license?format=flat-square
+[icon-version-stable]: https://poser.pugx.org/werxe/skeleton/v/stable?format=flat-square
+[icon-version-unstable]: https://poser.pugx.org/werxe/skeleton/v/unstable?format=flat-square
+[icon-downloads]: https://poser.pugx.org/werxe/skeleton/downloads?format=flat-square

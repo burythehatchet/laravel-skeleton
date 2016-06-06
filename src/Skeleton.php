@@ -1,8 +1,8 @@
 <?php
 
-namespace Werxe\:Package;
+namespace Werxe\Skeleton;
 
-class :Package
+class Skeleton
 {
     /**
      * Constructor.

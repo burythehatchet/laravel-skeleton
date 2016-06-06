@@ -1,6 +1,6 @@
 <?php
 
-namespace Werxe\:Package\Tests;
+namespace Werxe\Skeleton\Tests;
 
 use PHPUnit_Framework_TestCase;
 
