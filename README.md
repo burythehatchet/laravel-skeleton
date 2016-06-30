@@ -16,7 +16,7 @@ Reader-friendly documentation can be found [here][link-documentation].
 
 Using the package, but you're stuck? Found a bug? Have a question or suggestion for improving this package? Feel free to create an issue on GitHub, we'll try to address it as soon as possible.
 
-## Changelog
+## Change Log
 
 Please refer to the [CHANGELOG](CHANGELOG.md) for a full history of the project.
 
