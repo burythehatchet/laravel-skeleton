@@ -19,7 +19,7 @@ All Notable changes to `Skeleton` will be documented in this file
 
 > Each release has a collection of modifications and on each modification you need to define a status.
 
-> Please refer to the list below for the he recommended statuses:
+> Please refer to the list below for the recommended statuses:
 
 > Status     | Description
 > ---------- | -----------------------------------------------------------------
