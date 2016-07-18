@@ -1,6 +1,6 @@
 {
     "name": "werxe/skeleton",
-    "description": "",
+    "description": "Skeleton package repository for all repositories created by Werxe.",
     "keywords": [
         "php", "werxe"
     ],
