@@ -1,4 +1,6 @@
+/coverage
 /vendor
 /composer.lock
 /composer.phar
 /.idea
+/.DS_STORE
