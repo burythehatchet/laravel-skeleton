@@ -18,7 +18,7 @@ Using the package, but you're stuck? Found a bug? Have a question or suggestion 
 
 ## Change Log
 
-Please refer to the [CHANGELOG](CHANGELOG.md) for a full history of the project.
+Please refer to the [Change Log](CHANGELOG.md) for a full history of the project.
 
 ## Contributing & Protocols
 
