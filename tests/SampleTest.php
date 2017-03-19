@@ -3,10 +3,10 @@
 /*
  * This file is part of the Skeleton package.
  *
- * (c) Bruno Gaspar <bruno@werxe.com>
+ * (c) Werxe <hello@werxe.com>
  *
- * This source file is subject to the MIT license that is bundled
- * with this source code in the LICENSE file.
+ * For the full copyright and license information, please refer to
+ * the LICENSE file that was distributed with this source code.
  */
 
 namespace Werxe\Skeleton\Tests;
