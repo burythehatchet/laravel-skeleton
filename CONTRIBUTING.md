@@ -66,6 +66,6 @@ When you make a pull request, the tests will automatically be run again by [Trav
 
 [link-semver]: http://semver.org
 [link-travis]: https://travis-ci.org
-[link-psr-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
-[link-psr-2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
-[link-psr-4]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md
+[link-psr-1]: http://www.php-fig.org/psr/psr-1/
+[link-psr-2]: http://www.php-fig.org/psr/psr-2/
+[link-psr-4]: http://www.php-fig.org/psr/psr-4/
