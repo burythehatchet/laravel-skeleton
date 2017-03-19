@@ -1,4 +1,4 @@
-## Skeleton
+## Skeleton Laravel
 
 [![Build Status][icon-travis]][link-travis]
 [![Software License][icon-license]][link-license]
@@ -8,6 +8,12 @@
 The package description goes here.
 
 This package requires PHP 7.0+ and follows the FIG standards [PSR-1][link-psr-1], [PSR-2][link-psr-2] and [PSR-4][link-psr-4] to ensure a high level of interoperability between shared PHP.
+
+## Laravel Version Compatibility
+
+Laravel    | Skeleton
+---------- | -------------------------------------------------------------------
+5.4        | [1.0.x](https://github.com/werxe/skeleton-laravel/tree/1.0)
 
 ## Documentation
 
@@ -32,17 +38,17 @@ If you discover any security related issues, please email hello@werxe.com instea
 
 ## License
 
-`werxe/skeleton` is licenced under the MIT License (MIT). Please see the [license file](LICENSE) for more information.
+`werxe/skeleton-laravel` is licenced under the MIT License (MIT). Please see the [license file](LICENSE) for more information.
 
-[link-documentation]: https://oss.werxe.com/skeleton/1.x
+[link-documentation]: https://oss.werxe.com/skeleton-laravel/1.x
 [link-psr-1]: http://www.php-fig.org/psr/psr-1/
 [link-psr-2]: http://www.php-fig.org/psr/psr-2/
 [link-psr-4]: http://www.php-fig.org/psr/psr-4/
-[link-travis]: https://travis-ci.org/werxe/skeleton
+[link-travis]: https://travis-ci.org/werxe/skeleton-laravel
 [link-license]: https://opensource.org/licenses/MIT
-[link-packagist]: https://packagist.org/packages/werxe/skeleton
+[link-packagist]: https://packagist.org/packages/werxe/skeleton-laravel
 
-[icon-travis]: https://travis-ci.org/werxe/skeleton.svg
-[icon-license]: https://poser.pugx.org/werxe/skeleton/license.svg
-[icon-version]: https://poser.pugx.org/werxe/skeleton/v/stable.svg
-[icon-downloads]: https://poser.pugx.org/werxe/skeleton/d/total.svg
+[icon-travis]: https://travis-ci.org/werxe/skeleton-laravel.svg
+[icon-license]: https://poser.pugx.org/werxe/skeleton-laravel/license.svg
+[icon-version]: https://poser.pugx.org/werxe/skeleton-laravel/v/stable.svg
+[icon-downloads]: https://poser.pugx.org/werxe/skeleton-laravel/d/total.svg

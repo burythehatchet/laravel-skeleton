@@ -14,12 +14,15 @@
         }
     ],
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+        "illuminate/support": "^5.4",
+        "werxe/skeleton": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.0",
         "mockery/mockery": "^0.9",
-        "friendsofphp/php-cs-fixer": "^2.0"
+        "friendsofphp/php-cs-fixer": "^2.0",
+        "orchestra/testbench": "^3.4"
     },
     "autoload": {
         "psr-4": { "Werxe\\Skeleton\\": "src/" }

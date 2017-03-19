@@ -9,15 +9,17 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace Werxe\Skeleton\Tests;
+namespace Werxe\Skeleton\Laravel\Facades;
 
-use PHPUnit_Framework_TestCase;
+use Illuminate\Support\Facades\Facade;
 
-class SampleTest extends PHPUnit_Framework_TestCase
+class Skeleton extends Facade
 {
-    /** @test */
-    public function true_is_true()
+    /**
+     * {@inheritdoc}
+     */
+    protected static function getFacadeAccessor()
     {
-        $this->assertTrue(true);
+        return 'skeleton';
     }
 }
