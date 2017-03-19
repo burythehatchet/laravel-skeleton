@@ -35,7 +35,7 @@
     },
     "scripts": {
         "cs": "php-cs-fixer fix src --rules=@PSR2 --verbose --diff",
-        "test": "phpunit --verbose"
+        "test": "vendor/bin/phpunit --verbose"
     },
     "minimum-stability": "stable"
 }

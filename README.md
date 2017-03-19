@@ -34,7 +34,7 @@ If you discover any security related issues, please email hello@werxe.com instea
 
 `werxe/skeleton` is licenced under the MIT License (MIT). Please see the [license file](LICENSE.md) for more information.
 
-[link-documentation]: https://docs.werxe.com/skeleton/1.x
+[link-documentation]: https://oss.werxe.com/skeleton/1.x
 [link-psr-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
 [link-psr-2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 [link-psr-4]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md
