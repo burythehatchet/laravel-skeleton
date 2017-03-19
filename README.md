@@ -13,7 +13,7 @@ This package requires PHP 7.0+ and follows the FIG standards [PSR-1][link-psr-1]
 
 Laravel    | Skeleton
 ---------- | -------------------------------------------------------------------
-5.4        | [1.0.x](https://github.com/werxe/skeleton-laravel/tree/1.0)
+5.4        | [1.0.x](https://github.com/werxe/skeleton-laravel/tree/1.x)
 
 ## Documentation
 
