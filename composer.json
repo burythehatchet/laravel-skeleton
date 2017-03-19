@@ -34,7 +34,7 @@
         }
     },
     "scripts": {
-        "cs": "php-cs-fixer fix src --rules=@PSR2 --verbose --diff",
+        "cs": "php-cs-fixer fix src --rules=@PSR2 --verbose --diff --using-cache=no",
         "test": "vendor/bin/phpunit --verbose"
     },
     "minimum-stability": "stable"
