@@ -1,7 +1,10 @@
 ### Your Setup
 
 - PHP Version: #.#.#
-- Skeleton Version: #.#.#
+- Skeleton Laravel Version: #.#.#
+- Addresses Laravel Version: #.#.#
+- Database Driver:
+- Database Version: #.#.#
 
 ### Expected behaviour
 
