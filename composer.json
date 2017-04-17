@@ -27,6 +27,11 @@
     "autoload-dev": {
         "psr-4": { "Werxe\\Skeleton\\Tests\\": "tests/" }
     },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
     "extra": {
         "component": "package",
         "branch-alias": {
