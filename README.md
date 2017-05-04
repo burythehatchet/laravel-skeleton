@@ -11,7 +11,7 @@ This package requires PHP 7.0+ and follows the FIG standards [PSR-1][link-psr-1]
 
 ## Documentation
 
-Reader-friendly documentation can be found [here][link-documentation].
+Reader-friendly documentation can be found [here][link-docs].
 
 Using the package, but you're stuck? Found a bug? Have a question or suggestion for improving this package? Feel free to create an issue on GitHub, we'll try to address it as soon as possible.
 
@@ -34,15 +34,15 @@ If you discover any security related issues, please email hello@werxe.com instea
 
 `werxe/skeleton` is licenced under the MIT License (MIT). Please see the [license file](LICENSE) for more information.
 
-[link-documentation]: https://oss.werxe.com/skeleton/1.x
-[link-psr-1]: http://www.php-fig.org/psr/psr-1/
-[link-psr-2]: http://www.php-fig.org/psr/psr-2/
-[link-psr-4]: http://www.php-fig.org/psr/psr-4/
-[link-travis]: https://travis-ci.org/werxe/skeleton
-[link-license]: https://opensource.org/licenses/MIT
+[link-docs]:      https://oss.werxe.com/skeleton/1.x
+[link-psr-1]:     http://www.php-fig.org/psr/psr-1/
+[link-psr-2]:     http://www.php-fig.org/psr/psr-2/
+[link-psr-4]:     http://www.php-fig.org/psr/psr-4/
+[link-travis]:    https://travis-ci.org/werxe/skeleton
+[link-license]:   https://opensource.org/licenses/MIT
 [link-packagist]: https://packagist.org/packages/werxe/skeleton
 
-[icon-travis]: https://travis-ci.org/werxe/skeleton.svg
-[icon-license]: https://poser.pugx.org/werxe/skeleton/license.svg
-[icon-version]: https://poser.pugx.org/werxe/skeleton/v/stable.svg
-[icon-downloads]: https://poser.pugx.org/werxe/skeleton/d/total.svg
+[icon-travis]:    https://img.shields.io/travis/werxe/skeleton.svg?style=flat-square
+[icon-license]:   https://img.shields.io/packagist/l/werxe/skeleton.svg?style=flat-square
+[icon-version]:   https://img.shields.io/packagist/v/werxe/skeleton.svg?style=flat-square
+[icon-downloads]: https://img.shields.io/packagist/dt/werxe/skeleton.svg?style=flat-square
