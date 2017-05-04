@@ -11,9 +11,9 @@ This package requires PHP 7.0+ and follows the FIG standards [PSR-1][link-psr-1]
 
 ## Laravel Version Compatibility
 
-Laravel | Skeleton
-------- | ----------------------------------------------------------------------
-5.4     | [1.0.x](https://github.com/werxe/skeleton-laravel/tree/1.x)
+Skeleton                         | Laravel
+-------------------------------- | ---------------------------------------------
+![1.0.x][icon-skeleton_1_0_x]    | ![Laravel 5.1][icon-laravel_5_1]
 
 ## Documentation
 
@@ -52,3 +52,7 @@ If you discover any security related issues, please email hello@werxe.com instea
 [icon-license]:   https://img.shields.io/packagist/l/werxe/skeleton-laravel.svg?style=flat-square
 [icon-version]:   https://img.shields.io/packagist/v/werxe/skeleton-laravel.svg?style=flat-square
 [icon-downloads]: https://img.shields.io/packagist/dt/werxe/skeleton-laravel.svg?style=flat-square
+
+[icon-skeleton_1_0_x]: https://img.shields.io/badge/version-1.0.*-blue.svg?style=flat-square "Skeleton 1.0.*"
+
+[icon-laravel_5_1]: https://img.shields.io/badge/5.1-supported-brightgreen.svg?style=flat-square "Laravel 5.1"
