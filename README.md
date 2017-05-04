@@ -17,7 +17,7 @@ Laravel | Skeleton
 
 ## Documentation
 
-Reader-friendly documentation can be found [here][link-documentation].
+Reader-friendly documentation can be found [here][link-docs].
 
 Using the package, but you're stuck? Found a bug? Have a question or suggestion for improving this package? Feel free to create an issue on GitHub, we'll try to address it as soon as possible.
 
@@ -40,15 +40,15 @@ If you discover any security related issues, please email hello@werxe.com instea
 
 `werxe/skeleton-laravel` is licenced under the MIT License (MIT). Please see the [license file](LICENSE) for more information.
 
-[link-documentation]: https://oss.werxe.com/skeleton-laravel/1.x
-[link-psr-1]: http://www.php-fig.org/psr/psr-1/
-[link-psr-2]: http://www.php-fig.org/psr/psr-2/
-[link-psr-4]: http://www.php-fig.org/psr/psr-4/
-[link-travis]: https://travis-ci.org/werxe/skeleton-laravel
-[link-license]: https://opensource.org/licenses/MIT
+[link-docs]:      https://oss.werxe.com/skeleton-laravel/1.x
+[link-psr-1]:     http://www.php-fig.org/psr/psr-1/
+[link-psr-2]:     http://www.php-fig.org/psr/psr-2/
+[link-psr-4]:     http://www.php-fig.org/psr/psr-4/
+[link-travis]:    https://travis-ci.org/werxe/skeleton-laravel
+[link-license]:   https://opensource.org/licenses/MIT
 [link-packagist]: https://packagist.org/packages/werxe/skeleton-laravel
 
-[icon-travis]: https://travis-ci.org/werxe/skeleton-laravel.svg
-[icon-license]: https://poser.pugx.org/werxe/skeleton-laravel/license.svg
-[icon-version]: https://poser.pugx.org/werxe/skeleton-laravel/v/stable.svg
-[icon-downloads]: https://poser.pugx.org/werxe/skeleton-laravel/d/total.svg
+[icon-travis]:    https://img.shields.io/travis/werxe/skeleton-laravel.svg?style=flat-square
+[icon-license]:   https://img.shields.io/packagist/l/werxe/skeleton-laravel.svg?style=flat-square
+[icon-version]:   https://img.shields.io/packagist/v/werxe/skeleton-laravel.svg?style=flat-square
+[icon-downloads]: https://img.shields.io/packagist/dt/werxe/skeleton-laravel.svg?style=flat-square
