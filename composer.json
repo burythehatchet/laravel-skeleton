@@ -1,6 +1,6 @@
 {
-    "name": "werxe/skeleton",
-    "description": "Skeleton repository for all packages created by Werxe.",
+    "name": "werxe/skeleton-laravel",
+    "description": "Skeleton Laravel repository for all packages created by Werxe.",
     "keywords": [
         "php", "werxe"
     ],
@@ -15,20 +15,20 @@
     ],
     "require": {
         "php": "^7.0",
-        "illuminate/support": "5.4.*",
+        "illuminate/support": "5.1.*",
         "werxe/skeleton": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.0",
         "mockery/mockery": "^0.9",
         "friendsofphp/php-cs-fixer": "^2.0",
-        "orchestra/testbench": "^3.4"
+        "orchestra/testbench": "^3.1"
     },
     "autoload": {
-        "psr-4": { "Werxe\\Skeleton\\": "src/" }
+        "psr-4": { "Werxe\\Skeleton\\Laravel\\": "src/" }
     },
     "autoload-dev": {
-        "psr-4": { "Werxe\\Skeleton\\Tests\\": "tests/" }
+        "psr-4": { "Werxe\\Skeleton\\Laravel\\Tests\\": "tests/" }
     },
     "config": {
         "preferred-install": "dist",

@@ -9,7 +9,7 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace Werxe\Skeleton\Tests;
+namespace Werxe\Skeleton\Laravel\Tests;
 
 use PHPUnit_Framework_TestCase;
 

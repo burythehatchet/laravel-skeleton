@@ -2,7 +2,6 @@
 
 - PHP Version: #.#.#
 - Skeleton Laravel Version: #.#.#
-- Addresses Laravel Version: #.#.#
 - Database Driver:
 - Database Version: #.#.#
 

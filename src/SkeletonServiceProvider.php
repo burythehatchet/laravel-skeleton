@@ -64,7 +64,7 @@ class SkeletonServiceProvider extends ServiceProvider
             return new Skeleton();
         });
 
-        $this->app->alias('skeleton', 'Werxe\Skeleton\Skeleton');
+        $this->app->alias('skeleton', 'Werxe\Skeleton\Laravel\Skeleton');
     }
 
     /**

@@ -9,7 +9,7 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace Werxe\Skeleton;
+namespace Werxe\Skeleton\Laravel;
 
 class Skeleton
 {
