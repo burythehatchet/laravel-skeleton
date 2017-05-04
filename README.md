@@ -11,7 +11,7 @@ This package requires PHP 7.0+ and follows the FIG standards [PSR-1][link-psr-1]
 
 ## Laravel Version Compatibility
 
-Skeleton                         | Laravel
+Skeleton Laravel                 | Laravel
 -------------------------------- | ---------------------------------------------
 ![1.0.x][icon-skeleton_1_0_x]    | ![Laravel 5.1][icon-laravel_5_1]
 
