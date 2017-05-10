@@ -24,17 +24,22 @@ class SkeletonServiceProvider extends ServiceProvider
             // Publish config
             // $this->publishes([
             //     $this->getResourcePath('config/config.php') => config_path('werxe/skeleton/config.php'),
-            // ], 'config');
+            // ], 'werxe-skeleton:config');
 
             // Publish migrations
             // $this->publishes([
             //     $this->getResourcePath('migrations') => database_path('migrations'),
-            // ], 'migrations');
+            // ], 'werxe-skeleton:migrations');
+
+            // Load migrations
+            // $this->loadMigrationsFrom(
+            //     realpath(__DIR__.'/../resources/migrations')
+            // );
         }
     }
 
     /**
-    * {@inheritdoc}
+     * {@inheritdoc}
      */
     public function register()
     {
