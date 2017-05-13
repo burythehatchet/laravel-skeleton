@@ -39,8 +39,8 @@
         }
     },
     "scripts": {
-        "cs": "php-cs-fixer fix src --rules=@PSR2 --verbose --diff --using-cache=no",
-        "test": "vendor/bin/phpunit --verbose"
+        "cs": "vendor/bin/php-cs-fixer fix --verbose --ansi --show-progress=estimating",
+        "test": "vendor/bin/phpunit --verbose --colors=always"
     },
     "minimum-stability": "stable"
 }
