@@ -14,15 +14,17 @@ All Notable changes to `Skeleton` will be documented in this file
 
 - New: Initial Release!
 
+- - -
 
-> **Instructions**
 
-> Each release has a collection of modifications and on each modification you need to define a status.
+## **Instructions**
+
+Each release has a collection of modifications and on each modification you need to define a status.
 
 > Please refer to the list below for the recommended statuses:
 
-> Status     | Description
-> ---------- | -----------------------------------------------------------------
+Status     | Description
+---------- | -----------------------------------------------------------------
 `New`        | This is generally useful for the major releases.
 `Added`      | This is useful for new features.
 `Changed`    | This is useful for changes in existing functionality.
@@ -30,5 +32,5 @@ All Notable changes to `Skeleton` will be documented in this file
 `Removed`    | This is useful for deprecated features that were removed in this release.
 `Fixed`      | This is useful for any bug fixes.
 `Security`   | This is useful to invite users to upgrade in case of vulnerabilities.
->
+
 > **_Please don't forget to remove this block for production packages!_**
