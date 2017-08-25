@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Skeleton Laravel package.
+ * This file is part of the Laravel Skeleton package.
  *
  * (c) Werxe <hello@werxe.com>
  *
