@@ -53,10 +53,10 @@ $fixers = [
     'general_phpdoc_annotation_remove' => [ 'expectedException', 'expectedExceptionMessage', 'expectedExceptionMessageRegExp' ],
 ];
 
-// Directories to not scan
+// Directories that should be excluded from being scanned
 $excludeDirs = [];
 
-// Files to not scan
+// Files that should be excluded from being scanned
 $excludeFiles = [];
 
 // Create a new Symfony Finder instance
@@ -64,9 +64,7 @@ $finder = PhpCsFixer\Finder::create()
     ->in(__DIR__)
     ->exclude($excludeDirs)
     ->filter(function (\SplFileInfo $file) use ($excludeFiles) {
-        $name = $file->getRelativePathName();
-
-        return ! in_array($name, $excludeFiles);
+        return ! in_array($file->getRelativePathName(), $excludeFiles);
     })
 ;
 
