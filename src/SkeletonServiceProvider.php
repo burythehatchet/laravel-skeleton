@@ -23,17 +23,17 @@ class SkeletonServiceProvider extends ServiceProvider
         if ($this->app->runningInConsole()) {
             // Publish config
             // $this->publishes([
-            //     $this->getResourcePath('config/config.php') => config_path('werxe/skeleton/config.php'),
-            // ], 'werxe-skeleton:config');
+            //     realpath(__DIR__.'/../config/config.php') => config_path('werxe/skeleton/config.php'),
+            // ], 'werxe:skeleton.config');
 
             // Publish migrations
             // $this->publishes([
-            //     $this->getResourcePath('migrations') => database_path('migrations'),
-            // ], 'werxe-skeleton:migrations');
+            //     realpath(__DIR__.'/../database/migrations') => database_path('migrations'),
+            // ], 'werxe:skeleton.migrations');
 
             // Load migrations
             // $this->loadMigrationsFrom(
-            //     realpath(__DIR__.'/../resources/migrations')
+            //     realpath(__DIR__.'/../database/migrations')
             // );
         }
     }
@@ -44,7 +44,7 @@ class SkeletonServiceProvider extends ServiceProvider
     public function register()
     {
         $this->mergeConfigFrom(
-            $this->getResourcePath('config/config.php'), 'werxe.skeleton.config'
+            realpath(__DIR__.'/../config/config.php'), 'werxe.skeleton.config'
         );
 
         $this->registerSkeleton();
@@ -70,16 +70,5 @@ class SkeletonServiceProvider extends ServiceProvider
         });
 
         $this->app->alias('skeleton', 'Werxe\Skeleton\Laravel\Skeleton');
-    }
-
-    /**
-     * Returns the full path to the given resource.
-     *
-     * @param  string  $resource
-     * @return string
-     */
-    protected function getResourcePath($resource)
-    {
-        return realpath(__DIR__.'/../resources/'.$resource);
     }
 }
