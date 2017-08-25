@@ -17,9 +17,9 @@
         "php": "^7.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.0",
+        "friendsofphp/php-cs-fixer": "^2.0",
         "mockery/mockery": "^0.9",
-        "friendsofphp/php-cs-fixer": "^2.0"
+        "phpunit/phpunit": "^6.0"
     },
     "autoload": {
         "psr-4": { "Werxe\\Skeleton\\": "src/" }
