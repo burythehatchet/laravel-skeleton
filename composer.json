@@ -18,10 +18,10 @@
         "illuminate/support": "5.4.*"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.0",
-        "mockery/mockery": "^0.9",
         "friendsofphp/php-cs-fixer": "^2.0",
-        "orchestra/testbench": "^3.1"
+        "mockery/mockery": "^0.9",
+        "orchestra/testbench": "^3.1",
+        "phpunit/phpunit": "^6.0"
     },
     "autoload": {
         "psr-4": { "Werxe\\Laravel\\Skeleton\\": "src/" }
