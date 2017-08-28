@@ -12,17 +12,17 @@ class SkeletonServiceProvider extends ServiceProvider
     public function boot()
     {
         if ($this->app->runningInConsole()) {
-            // Publish config
+            // // Publish config
             // $this->publishes([
             //     realpath(__DIR__.'/../config/config.php') => config_path('werxe/skeleton/config.php'),
             // ], 'werxe:skeleton.config');
 
-            // Publish migrations
+            // // Publish migrations
             // $this->publishes([
             //     realpath(__DIR__.'/../database/migrations') => database_path('migrations'),
             // ], 'werxe:skeleton.migrations');
 
-            // Load migrations
+            // // Load migrations
             // $this->loadMigrationsFrom(
             //     realpath(__DIR__.'/../database/migrations')
             // );
@@ -34,9 +34,9 @@ class SkeletonServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->mergeConfigFrom(
-            realpath(__DIR__.'/../config/config.php'), 'werxe.skeleton.config'
-        );
+        // $this->mergeConfigFrom(
+        //     realpath(__DIR__.'/../config/config.php'), 'werxe.skeleton.config'
+        // );
 
         $this->registerSkeleton();
     }
