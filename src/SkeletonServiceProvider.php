@@ -37,8 +37,6 @@ class SkeletonServiceProvider extends ServiceProvider
         // $this->mergeConfigFrom(
         //     realpath(__DIR__.'/../config/config.php'), 'werxe.skeleton.config'
         // );
-
-        $this->registerSkeleton();
     }
 
     /**
@@ -46,20 +44,6 @@ class SkeletonServiceProvider extends ServiceProvider
      */
     public function provides()
     {
-        return [ 'skeleton' ];
-    }
-
-    /**
-     * Registers Skeleton.
-     *
-     * @return void
-     */
-    protected function registerSkeleton()
-    {
-        $this->app->singleton('skeleton', function ($app) {
-            return new Skeleton();
-        });
-
-        $this->app->alias('skeleton', 'Werxe\Skeleton\Laravel\Skeleton');
+        return [];
     }
 }
