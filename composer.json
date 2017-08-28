@@ -24,10 +24,10 @@
         "phpunit/phpunit": "^5.7"
     },
     "autoload": {
-        "psr-4": { "Werxe\\Skeleton\\Laravel\\": "src/" }
+        "psr-4": { "Werxe\\Laravel\\Skeleton\\": "src/" }
     },
     "autoload-dev": {
-        "psr-4": { "Werxe\\Skeleton\\Laravel\\Tests\\": "tests/" }
+        "psr-4": { "Werxe\\Laravel\\Skeleton\\Tests\\": "tests/" }
     },
     "config": {
         "preferred-install": "dist",
