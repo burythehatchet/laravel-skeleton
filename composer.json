@@ -20,8 +20,8 @@
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.0",
         "mockery/mockery": "^0.9",
-        "orchestra/testbench": "^3.1",
-        "phpunit/phpunit": "^6.0"
+        "orchestra/testbench": "^3.4",
+        "phpunit/phpunit": "^5.7"
     },
     "autoload": {
         "psr-4": { "Werxe\\Laravel\\Skeleton\\": "src/" }
