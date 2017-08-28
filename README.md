@@ -19,6 +19,14 @@ Using the package, but you're stuck? Found a bug? Have a question or suggestion 
 
 Please refer to the [Change Log](CHANGELOG.md) for a full history of the project.
 
+## Testing
+
+You can run the tests with:
+
+```bash
+vendor/bin/phpunit
+```
+
 ## Contributing & Protocols
 
 - [Versioning](CONTRIBUTING.md#versioning)
