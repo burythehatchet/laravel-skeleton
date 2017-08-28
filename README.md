@@ -50,7 +50,7 @@ If you discover any security related issues, please email hello@werxe.com instea
 [link-license]:   https://opensource.org/licenses/MIT
 [link-packagist]: https://packagist.org/packages/werxe/skeleton
 
-[icon-travis]:    https://img.shields.io/travis/werxe/skeleton.svg?style=flat-square
-[icon-license]:   https://img.shields.io/packagist/l/werxe/skeleton.svg?style=flat-square
-[icon-version]:   https://img.shields.io/packagist/v/werxe/skeleton.svg?style=flat-square
-[icon-downloads]: https://img.shields.io/packagist/dt/werxe/skeleton.svg?style=flat-square
+[icon-travis]:    https://img.shields.io/travis/werxe/skeleton.svg?style=flat-square&label=Travis%20CI
+[icon-license]:   https://img.shields.io/packagist/l/werxe/skeleton.svg?style=flat-square&label=License
+[icon-version]:   https://img.shields.io/packagist/v/werxe/skeleton.svg?style=flat-square&label=Version
+[icon-downloads]: https://img.shields.io/packagist/dt/werxe/skeleton.svg?style=flat-square&label=Downloads
