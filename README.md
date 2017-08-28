@@ -25,6 +25,14 @@ Using the package, but you're stuck? Found a bug? Have a question or suggestion 
 
 Please refer to the [Change Log](CHANGELOG.md) for a full history of the project.
 
+## Testing
+
+You can run the tests with:
+
+```bash
+vendor/bin/phpunit
+```
+
 ## Contributing & Protocols
 
 - [Versioning](CONTRIBUTING.md#versioning)
@@ -48,11 +56,9 @@ If you discover any security related issues, please email hello@werxe.com instea
 [link-license]:   https://opensource.org/licenses/MIT
 [link-packagist]: https://packagist.org/packages/werxe/laravel-skeleton
 
-[icon-travis]:    https://img.shields.io/travis/werxe/laravel-skeleton.svg?style=flat-square
-[icon-license]:   https://img.shields.io/packagist/l/werxe/laravel-skeleton.svg?style=flat-square
-[icon-version]:   https://img.shields.io/packagist/v/werxe/laravel-skeleton.svg?style=flat-square
-[icon-downloads]: https://img.shields.io/packagist/dt/werxe/laravel-skeleton.svg?style=flat-square
-
-[icon-laravel-skeleton_1_0_x]: https://img.shields.io/badge/version-1.0.*-blue.svg?style=flat-square "Skeleton 1.0.*"
-
+[icon-travis]:    https://img.shields.io/travis/werxe/skeleton-laravel.svg?style=flat-square&label=Travis%20CI
+[icon-license]:   https://img.shields.io/packagist/l/werxe/skeleton-laravel.svg?style=flat-square&label=License
+[icon-version]:   https://img.shields.io/packagist/v/werxe/skeleton-laravel.svg?style=flat-square&label=Version
+[icon-downloads]: https://img.shields.io/packagist/dt/werxe/skeleton-laravel.svg?style=flat-square&label=Downloads
 [icon-laravel_5_4]: https://img.shields.io/badge/5.4-supported-brightgreen.svg?style=flat-square "Laravel 5.4"
+[icon-laravel-skeleton_1_0_x]: https://img.shields.io/badge/version-1.0.*-blue.svg?style=flat-square&label=Version "Skeleton 1.0.*"
