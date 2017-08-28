@@ -1,6 +1,6 @@
 <?php
 
-namespace Werxe\Skeleton\Laravel;
+namespace Werxe\Laravel\Skeleton;
 
 use Illuminate\Support\ServiceProvider;
 
