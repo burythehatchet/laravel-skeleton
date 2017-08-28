@@ -1,6 +1,6 @@
 # Change Log
 
-All Notable changes to `Laravel Skeleton` will be documented in this file
+All Notable changes to `Skeleton Laravel` will be documented in this file
 
 ### v1.1.0 (YYYY-MM-DD)
 

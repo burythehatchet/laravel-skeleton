@@ -1,4 +1,4 @@
-## Laravel Skeleton
+## Skeleton Laravel
 
 [![Build Status][icon-travis]][link-travis]
 [![Software License][icon-license]][link-license]
@@ -11,9 +11,9 @@ This package requires PHP 7.0+ and follows the FIG standards [PSR-1][link-psr-1]
 
 ## Laravel Version Compatibility
 
-Laravel Skeleton                      | Laravel
+Skeleton Laravel                      | Laravel
 ------------------------------------- | ----------------------------------------
-![1.0.x][icon-laravel-skeleton_1_0_x] | ![Laravel 5.4][icon-laravel_5_4]
+![1.0.x][icon-skeleton-laravel_1_0_x] | ![Laravel 5.4][icon-laravel_5_4]
 
 ## Documentation
 
@@ -46,19 +46,19 @@ If you discover any security related issues, please email hello@werxe.com instea
 
 ## License
 
-`werxe/laravel-skeleton` is licenced under the MIT License (MIT). Please see the [license file](LICENSE) for more information.
+`werxe/skeleton-laravel` is licenced under the MIT License (MIT). Please see the [license file](LICENSE) for more information.
 
-[link-docs]:      https://oss.werxe.com/laravel-skeleton/1.x
+[link-docs]:      https://oss.werxe.com/skeleton-laravel/1.x
 [link-psr-1]:     http://www.php-fig.org/psr/psr-1/
 [link-psr-2]:     http://www.php-fig.org/psr/psr-2/
 [link-psr-4]:     http://www.php-fig.org/psr/psr-4/
-[link-travis]:    https://travis-ci.org/werxe/laravel-skeleton
+[link-travis]:    https://travis-ci.org/werxe/skeleton-laravel
 [link-license]:   https://opensource.org/licenses/MIT
-[link-packagist]: https://packagist.org/packages/werxe/laravel-skeleton
+[link-packagist]: https://packagist.org/packages/werxe/skeleton-laravel
 
 [icon-travis]:    https://img.shields.io/travis/werxe/skeleton-laravel.svg?style=flat-square&label=Travis%20CI
 [icon-license]:   https://img.shields.io/packagist/l/werxe/skeleton-laravel.svg?style=flat-square&label=License
 [icon-version]:   https://img.shields.io/packagist/v/werxe/skeleton-laravel.svg?style=flat-square&label=Version
 [icon-downloads]: https://img.shields.io/packagist/dt/werxe/skeleton-laravel.svg?style=flat-square&label=Downloads
 [icon-laravel_5_4]: https://img.shields.io/badge/5.4-supported-brightgreen.svg?style=flat-square "Laravel 5.4"
-[icon-laravel-skeleton_1_0_x]: https://img.shields.io/badge/version-1.0.*-blue.svg?style=flat-square&label=Version "Skeleton 1.0.*"
+[icon-skeleton-laravel_1_0_x]: https://img.shields.io/badge/version-1.0.*-blue.svg?style=flat-square&label=Version "Skeleton 1.0.*"

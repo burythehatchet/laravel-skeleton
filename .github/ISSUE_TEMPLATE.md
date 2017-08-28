@@ -1,7 +1,7 @@
 ### Your Setup
 
 - PHP Version: #.#.#
-- Laravel Skeleton Version: #.#.#
+- Skeleton Laravel Version: #.#.#
 - Database Driver:
 - Database Version: #.#.#
 
