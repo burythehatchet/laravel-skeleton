@@ -25,20 +25,15 @@ Using the package, but you're stuck? Found a bug? Have a question or suggestion 
 
 Please refer to the [Change Log](CHANGELOG.md) for a full history of the project.
 
-## Testing
-
-You can run the tests with:
-
-```bash
-vendor/bin/phpunit
-```
-
 ## Contributing & Protocols
 
+- [Etiquette](CONTRIBUTING.md#etiquette)
 - [Versioning](CONTRIBUTING.md#versioning)
 - [Coding Standards](CONTRIBUTING.md#coding-standards)
+- [Issues \ Bugs](CONTRIBUTING.md#issues--bugs)
 - [Pull Requests](CONTRIBUTING.md#pull-requests)
 - [Proposals](CONTRIBUTING.md#proposals)
+- [Testing](CONTRIBUTING.md#running-tests)
 
 ## Security
 
