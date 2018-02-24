@@ -1,6 +1,6 @@
 <?php
 
-namespace Werxe\Laravel\Skeleton\Tests;
+namespace Werxe\Skeleton\Tests;
 
 use PHPUnit\Framework\TestCase;
 
