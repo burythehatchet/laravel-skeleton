@@ -7,13 +7,13 @@
 
 The package description goes here.
 
-This package requires PHP 7.0+ and follows the FIG standards [PSR-1][link-psr-1], [PSR-2][link-psr-2] and [PSR-4][link-psr-4] to ensure a high level of interoperability between shared PHP.
+This package requires PHP 7.1.3+ and follows the FIG standards [PSR-1][link-psr-1], [PSR-2][link-psr-2] and [PSR-4][link-psr-4] to ensure a high level of interoperability between shared PHP.
 
 ## Laravel Version Compatibility
 
 Laravel Skeleton                      | Laravel
 ------------------------------------- | ----------------------------------------
-![1.0.x][icon-laravel-skeleton_1_0_x] | ![Laravel 5.4][icon-laravel_5_4]
+![1.0.x][icon-laravel-skeleton_1_0_x] | ![Laravel 5.6][icon-laravel_5_6]
 
 ## Documentation
 
@@ -55,5 +55,5 @@ If you discover any security related issues, please email hello@werxe.com instea
 [icon-license]:   https://img.shields.io/packagist/l/werxe/laravel-skeleton.svg?style=flat-square&label=License
 [icon-version]:   https://img.shields.io/packagist/v/werxe/laravel-skeleton.svg?style=flat-square&label=Version
 [icon-downloads]: https://img.shields.io/packagist/dt/werxe/laravel-skeleton.svg?style=flat-square&label=Downloads
-[icon-laravel_5_4]: https://img.shields.io/badge/5.4-supported-brightgreen.svg?style=flat-square "Laravel 5.4"
+[icon-laravel_5_6]: https://img.shields.io/badge/5.6-supported-brightgreen.svg?style=flat-square "Laravel 5.6"
 [icon-laravel-skeleton_1_0_x]: https://img.shields.io/badge/version-1.0.*-blue.svg?style=flat-square&label=Version "Skeleton 1.0.*"
