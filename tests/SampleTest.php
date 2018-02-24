@@ -2,9 +2,9 @@
 
 namespace Werxe\Skeleton\Tests;
 
-use PHPUnit_Framework_TestCase;
+use PHPUnit\Framework\TestCase;
 
-class SampleTest extends PHPUnit_Framework_TestCase
+class SampleTest extends TestCase
 {
     /** @test */
     public function true_is_true()
