@@ -11,6 +11,5 @@ class Skeleton
      */
     public function __construct()
     {
-        //
     }
 }
