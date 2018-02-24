@@ -46,7 +46,7 @@ class SkeletonServiceProvider extends ServiceProvider
      */
     public function provides()
     {
-        return [ 'skeleton' ];
+        return ['skeleton'];
     }
 
     /**
