@@ -43,6 +43,14 @@
         "component": "package",
         "branch-alias": {
             "dev-master": "1.0.x-dev"
+        },
+        "laravel": {
+            "providers": [
+                "Werxe\\Skeleton\\Laravel\\SkeletonServiceProvider"
+            ],
+            "aliases": {
+                "Skeleton": "Werxe\\Skeleton\\Laravel\\Facades\\Skeleton"
+            }
         }
     },
     "scripts": {
