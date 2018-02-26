@@ -46,11 +46,8 @@
         },
         "laravel": {
             "providers": [
-                "Werxe\\Skeleton\\Laravel\\SkeletonServiceProvider"
-            ],
-            "aliases": {
-                "Skeleton": "Werxe\\Skeleton\\Laravel\\Facades\\Skeleton"
-            }
+                "Werxe\\Skeleton\\SkeletonServiceProvider"
+            ]
         }
     },
     "scripts": {
