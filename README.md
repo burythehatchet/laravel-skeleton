@@ -43,7 +43,7 @@ If you discover any security related issues, please email hello@werxe.com instea
 
 `werxe/laravel-skeleton` is licenced under the MIT License (MIT). Please see the [license file](LICENSE) for more information.
 
-[link-docs]:      https://oss.werxe.com/laravel-skeleton/1.x
+[link-docs]:      https://docs.werxe.com/laravel-skeleton/1.x
 [link-psr-1]:     http://www.php-fig.org/psr/psr-1/
 [link-psr-2]:     http://www.php-fig.org/psr/psr-2/
 [link-psr-4]:     http://www.php-fig.org/psr/psr-4/
