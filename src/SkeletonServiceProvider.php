@@ -9,6 +9,18 @@ class SkeletonServiceProvider extends ServiceProvider
     /**
      * {@inheritdoc}
      */
+    public function register()
+    {
+        // $this->mergeConfigFrom(
+        //     realpath(__DIR__.'/../config/config.php'), 'werxe.skeleton.config'
+        // );
+
+        $this->registerSkeleton();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
     public function boot()
     {
         if ($this->app->runningInConsole()) {
@@ -27,16 +39,6 @@ class SkeletonServiceProvider extends ServiceProvider
             //     realpath(__DIR__.'/../database/migrations')
             // );
         }
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function register()
-    {
-        // $this->mergeConfigFrom(
-        //     realpath(__DIR__.'/../config/config.php'), 'werxe.skeleton.config'
-        // );
     }
 
     /**
