@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 namespace Werxe\Skeleton;
 
 use Illuminate\Support\ServiceProvider;

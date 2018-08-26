@@ -1,17 +1,21 @@
-### Your Setup
+---
+name: Bug Report
+about: Report errors and problems
+---
 
+### Your Environment
+
+- OS and Version: #.#.#
 - PHP Version: #.#.#
 - Laravel Skeleton Version: #.#.#
-- Database Driver:
-- Database Version: #.#.#
 
 ### Expected behaviour
 
-*Please describe what you're expecting to see happen.*
+*Please describe what you are expecting to see happening.*
 
 ### Actual behaviour
 
-*Please describe what you're actually seeing happen.*
+*Please describe what is actually happening.*
 
 ### Steps to reproduce
 
