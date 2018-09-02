@@ -16,6 +16,7 @@ $fixers = [
     'explicit_string_variable' => true,
     'linebreak_after_opening_tag' => true,
     'list_syntax' => [ 'syntax' => 'long' ],
+    'lowercase_static_reference' => true,
     'no_extra_blank_lines' => ['tokens' => ['break', 'continue', 'extra', 'return', 'throw', 'use', 'parenthesis_brace_block', 'square_brace_block', 'curly_brace_block']],
     'no_leading_import_slash' => true,
     'no_short_echo_tag' => true,
@@ -28,6 +29,7 @@ $fixers = [
     'ordered_class_elements' => false,
     'ordered_imports' => [ 'sortAlgorithm' => 'length' ],
     'protected_to_private' => false,
+    'return_assignment' => true,
     'semicolon_after_instruction' => true,
     'short_scalar_cast' => true,
     'ternary_to_null_coalescing' => true,
@@ -36,7 +38,7 @@ $fixers = [
 
     // Docblocks & Comments
     'phpdoc_add_missing_param_annotation' => true,
-    'phpdoc_align' => true,
+    'phpdoc_align' => ['tags' => ['param'], 'align' => 'vertical'],
     'phpdoc_indent' => true,
     'phpdoc_inline_tag' => true,
     'phpdoc_no_empty_return' => false,
@@ -45,12 +47,14 @@ $fixers = [
     'phpdoc_scalar' => true,
     'phpdoc_separation' => true,
     'phpdoc_trim' => true,
+    'phpdoc_trim_consecutive_blank_line_separation' => true,
     'phpdoc_types' => true,
     'phpdoc_var_without_name' => true,
 
     'no_empty_comment' => false,
     'no_empty_phpdoc' => false,
     'no_empty_statement' => false,
+    'no_superfluous_phpdoc_tags' => false,
 
     'single_line_comment_style' => true,
 
@@ -63,7 +67,7 @@ $fixers = [
         ],
     ],
     'concat_space' => ['spacing' => 'none'],
-    'method_argument_space' => true,
+    'method_argument_space' => ['on_multiline' => 'ignore'],
     'method_chaining_indentation' => true,
     'not_operator_with_successor_space' => true,
     'no_spaces_around_offset' => [
@@ -79,7 +83,7 @@ $fixers = [
 
 // Directories to not scan
 $excludeDirs = [
-   'vendor/',
+    'vendor/',
 ];
 
 // Files to not scan
