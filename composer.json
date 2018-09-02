@@ -3,7 +3,8 @@
     "description": "Skeleton repository for all packages created by Werxe.",
     "keywords": [
         "php",
-        "werxe"
+        "werxe",
+        "skeleton"
     ],
     "homepage": "https://werxe.com",
     "license": "MIT",
@@ -12,6 +13,10 @@
             "name": "Werxe",
             "email": "hello@werxe.com",
             "homepage": "https://werxe.com"
+        },
+        {
+            "name": "Bruno Gaspar",
+            "email": "bruno@werxe.com"
         }
     ],
     "require": {
@@ -38,7 +43,6 @@
         "optimize-autoloader": true
     },
     "extra": {
-        "component": "package",
         "branch-alias": {
             "dev-master": "1.0.x-dev"
         }
