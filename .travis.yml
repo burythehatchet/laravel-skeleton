@@ -2,6 +2,7 @@ language: php
 
 php:
   - 7.2
+  - 7.3
 
 sudo: false
 
@@ -9,8 +10,11 @@ cache:
   directories:
     - $HOME/.composer/cache
 
-before_script:
+before_install:
   - travis_retry composer self-update
+
+install:
   - travis_retry composer install --no-interaction --prefer-dist
 
-script: vendor/bin/phpunit --verbose
+script:
+  - vendor/bin/phpunit --verbose
