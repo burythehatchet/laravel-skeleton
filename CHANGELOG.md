@@ -1,37 +1,26 @@
 # Change Log
 
-All Notable changes to `Skeleton` will be documented in this file
+All notable changes to this project will be documented in this file.
 
-### v1.1.0 (YYYY-MM-DD)
+The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-- Added: Requested feature (#issue_id)
+## [Unreleased]
 
-### v1.0.1 (YYYY-MM-DD)
+### Added
 
-- Fixed: Reported Issue (#issue_id)
+### Changed
 
-### v1.0.0 (YYYY-MM-DD)
+### Deprecated
 
-First stable release.
+### Removed
+
+### Fixed
+
+### Security
 
 
-- - -
+## [v1.0.0] - YYYY-MM-DD
 
+### Added
 
-## **Instructions**
-
-Each release has a collection of modifications and on each modification you need to define a status.
-
-> Please refer to the list below for the recommended statuses:
-
-Status     | Description
----------- | -----------------------------------------------------------------
-`New`        | This is generally useful for the major releases.
-`Added`      | This is useful for new features.
-`Changed`    | This is useful for changes in existing functionality.
-`Deprecated` | This is useful for set stable features to be removed in the upcoming releases.
-`Removed`    | This is useful for deprecated features that were removed in this release.
-`Fixed`      | This is useful for any bug fixes.
-`Security`   | This is useful to invite users to upgrade in case of vulnerabilities.
-
-> **_Please don't forget to remove this block for production packages!_**
+- Initial release.
