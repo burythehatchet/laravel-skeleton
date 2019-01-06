@@ -11,9 +11,9 @@ This package is compliant with the FIG standards [PSR-1][link-psr-1], [PSR-2][li
 
 ## Laravel Version Compatibility
 
-Skeleton Laravel                      | Laravel
-------------------------------------- | ----------------------------------------
-![1.0.x][icon-skeleton-laravel_1_0_x] | ![Laravel 5.6][icon-laravel_5_6]
+Skeleton Laravel                  | Laravel
+--------------------------------- | ----------------------------------------
+![1.x][icon-skeleton-laravel_1_x] | ![Laravel 5.7][icon-laravel_5_7]
 
 ## Documentation
 
@@ -55,5 +55,5 @@ If you discover any security related issues, please email hello@werxe.com instea
 [icon-license]:   https://img.shields.io/packagist/l/werxe/skeleton-laravel.svg?style=flat-square&label=License
 [icon-version]:   https://img.shields.io/packagist/v/werxe/skeleton-laravel.svg?style=flat-square&label=Version
 [icon-downloads]: https://img.shields.io/packagist/dt/werxe/skeleton-laravel.svg?style=flat-square&label=Downloads
-[icon-laravel_5_6]: https://img.shields.io/badge/5.6-supported-brightgreen.svg?style=flat-square "Laravel 5.6"
-[icon-skeleton-laravel_1_0_x]: https://img.shields.io/badge/version-1.0.*-blue.svg?style=flat-square&label=Version "Skeleton 1.0.*"
+[icon-laravel_5_7]: https://img.shields.io/badge/5.7-supported-brightgreen.svg?style=flat-square "Laravel 5.7"
+[icon-skeleton-laravel_1_x]: https://img.shields.io/badge/version-1.x-blue.svg?style=flat-square&label=Version "Skeleton 1.x"
